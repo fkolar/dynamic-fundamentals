@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "projected-content-test"
+  "defaultProject": "projected-content-test",
+  "cli": {
+    "analytics": "add4d029-3f74-4c0b-ad20-b6c5a5bdaeae"
+  }
 }
